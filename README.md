@@ -7,3 +7,5 @@ The ball's speed increases every time it hits the paddle.
 The direction of the ball is reversed and changes slightly every time it hits the paddle.
  
 ## Screenshots:
+![screenshot](https://github.com/OBerger96/pong-game/blob/master/images/pong0.jpeg)
+![screenshot](https://github.com/OBerger96/pong-game/blob/master/images/pong1.jpeg)
