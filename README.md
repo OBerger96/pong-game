@@ -11,7 +11,7 @@ The direction of the ball is reversed and changes slightly every time it hits th
 ![screenshot](https://github.com/OBerger96/pong-game/blob/master/images/pong1.jpeg)
 
 ## Getting Started
-Copy he project on your local java project:
+Copy the project on your local java project:
 Clone with SSH 
 ```
 git@github.com:OBerger96/pong-game.git
