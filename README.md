@@ -1,4 +1,4 @@
-# Pong Game
+# My Pong game
 
 Build a Pong game, using JavaFX, where human players can play against a CPU opponent. 
 The human players' paddle is programmed to move as the motion of the mouse.
